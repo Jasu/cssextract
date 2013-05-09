@@ -18,7 +18,7 @@ Usage
 
   Output.css contains only the CSS affecting background-image from input.css.
 
-### Example 1 
+### Example 2
 
   cssextract -p background -p background-image input.css output.css
 
